@@ -1,5 +1,5 @@
 /*A shallow copy of an object copies all the memebres value from one object to another.
-when you created any dynamically created member so, shallow copy copies the same address.
+ shallow copy copies the same address.
 hence you change any memeber value of object, it will reflect for another object.
 */
 
